@@ -1,4 +1,4 @@
-### Aim for a full-stack💪
+### 💪 주니어 웹 개발자로!
 
 <!--
 **newForinux/newForinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 [![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=newForinux&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Backend + Frontend Junior Engineer
+### 🎀 Frontend Junior Engineer (+ Java)
 - Continuous development and development for people.
 - #### Handong Global Univ. (2016.2 ~ )
-- #### Intelligent Software Engineering Lab (ISEL, 2019.9 ~ )
+- #### Intelligent Software Engineering Lab (ISEL, 2019.9 ~ 2021.7)
+- #### POSCO ICT internship (2021.7 ~ )
 
 <br>
 
 ### Tech Stack & Interest
 - React.js + Typescript
-- Spring boot + MySQL (MongoDB)
 - Java
 - REST API
 
