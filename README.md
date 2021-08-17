@@ -37,7 +37,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/material_ui--white?style=for-the-badge&logo=material-ui">
   <img src="https://img.shields.io/badge/java--white?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/mysql--white?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/firebase--white?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/postgresql--white?style=for-the-badge&logo=postgresql">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/next.js--white?style=for-the-badge&logo=next.js">
+  <img src="https://img.shields.io/badge/jquery--white?style=for-the-badge&logo=jquery">
+  
 
 
