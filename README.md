@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/next.js--white?style=for-the-badge&logo=next.js">
   <img src="https://img.shields.io/badge/jquery--white?style=for-the-badge&logo=jquery">
-  
+</p>
 
+<br>
 
+### 📚 블로그
+https://newforinux.github.io/
+
+### 📢 Java 채점서비스
+https://github.com/newForinux/JChecker-Front
