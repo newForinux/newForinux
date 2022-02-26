@@ -24,7 +24,7 @@
 
 ### 💬 Frontend Junior Engineer
 ### Continuous development and development for people.
-#### Handong Global Univ. (2016.2 ~ )
+#### Handong Global Univ. (2016.2 ~ 2022.2)
 #### Intelligent Software Engineering Lab (ISEL, 2019.9 ~ 2021.7)
 🛻벨로그로 이사가는중...
   
