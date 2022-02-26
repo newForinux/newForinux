@@ -14,9 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnewForinux&count_bg=%2379C83D&title_bg=%23555555&icon=spring.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<div>
+  <a href="https://newforinux.github.io/">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://jeonyeohun.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
+</a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnewForinux&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right" />
+</div>
 
 [![MINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=newForinux&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ### 💬 Frontend Junior Engineer
@@ -45,9 +55,3 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-
-### 📚 블로그
-https://newforinux.github.io/
-
-### 📢 Java 채점서비스
-https://github.com/newForinux/JChecker-Front
