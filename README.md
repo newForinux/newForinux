@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/SCSS-cd679a?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Next.js-1e272e?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Next.js-1e272e?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
